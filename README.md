@@ -1,5 +1,4 @@
-# Seax-bot-blocker
-A script for Among us that blocks the bot "Seax bot"
+# AntiSeaxBot
 
 A lightweight **BepInEx 6 (IL2CPP)** host-side anti-cheat plugin for *Among Us* that automatically protects public lobbies from automated lobby-nuking bots and RPC flooders.
 
@@ -19,4 +18,10 @@ A lightweight **BepInEx 6 (IL2CPP)** host-side anti-cheat plugin for *Among Us* 
 2. Open `AntiSeaxBot.csproj` and make sure the `<AmongUs>` path points to your local *Among Us* directory.
 3. Run `dotnet build -c Release` inside the project folder.
 4. Copy the compiled `AntiSeaxBot.dll` into your `Among Us/BepInEx/plugins/` folder.
+
+---
+
+## Disclaimer
+This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
+
 
