@@ -1,1 +1,15 @@
+# Build outputs
+bin/
+obj/
+
+# Compiled binaries
+*.dll
+*.exe
+*.pdb
+
+# Visual Studio & VS Code local settings
+.vs/
+.vscode/
+*.user
+*.suo
 
